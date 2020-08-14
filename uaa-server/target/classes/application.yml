@@ -1,0 +1,4 @@
+logging:
+  level:
+    root: debug
+    com.wangwh.code.auth: debug

@@ -1,0 +1,5 @@
+com\wangwh\code\order\config\OrderResourceServerConfig.class
+com\wangwh\code\order\config\WebSecurityConfig.class
+com\wangwh\code\order\OrderServiceApplication.class
+com\wangwh\code\order\config\ResourcreTokenConfig.class
+com\wangwh\code\order\controller\OrderController.class

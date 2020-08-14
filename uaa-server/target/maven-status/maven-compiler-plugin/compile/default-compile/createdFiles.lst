@@ -1,0 +1,6 @@
+com\wangwh\code\auth\config\AuthorizationServerConfig.class
+com\wangwh\code\auth\controller\UaaController.class
+com\wangwh\code\auth\config\ServerTokenConfig.class
+com\wangwh\code\auth\config\SampleUserdetailsService.class
+com\wangwh\code\auth\config\WebSecurityConfig.class
+com\wangwh\code\auth\UaaServerApplication.class
